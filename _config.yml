@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Indranil Tiwary </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://drive.google.com/file/d/1gqxg0YQfh2i-kK1_hIstI639yZ341tyi/view?usp=sharing">Resume</a> |
+  <a href="https://www.linkedin.com/in/indraniltiwary/">LinkedIn</a> |
+  <a href="https://github.com/indranil-tiwary">GitHub</a>
+  
+  <br>   
+  I'm a full-stack developer. Currently learning Maching Learning from IIIT Bangalore.
+  Worked with EngineerBabu, WittyFeed, CoinDCX (founding team).
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
